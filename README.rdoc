@@ -1,0 +1,2 @@
+== MOODY-CHATTY
+ It is an a platform for you to talk anonymously to people feeling the same way you are.
